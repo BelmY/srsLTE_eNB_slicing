@@ -23,10 +23,10 @@ Ginés García Avilés [website](http://people.networks.imdea.org/~gines_garcia/
 
 In the Author website there are several references or papers related to Networks and Radio Softwarization (SDN, SDWN, SDR, etc) and Network Slicing paradigms, including open source code for testing and research:
 
-* POSENS: a practical open-source solution for end-to-end network slicing [website](https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/609/POSENS_practical_open-source_solution_end-to-end_network_slicing_2018_EN.pdf?sequence=1&isAllowed=y)
+* [POSENS: a practical open-source solution for end-to-end network slicing](https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/609/POSENS_practical_open-source_solution_end-to-end_network_slicing_2018_EN.pdf?sequence=1&isAllowed=y)
 
 A review of 5G (and SDR based) Tesbeds is available at: 
-* Small-Scale 5G Testbeds for Network Slicing Deployment: A Systematic Review [website] (https://www.hindawi.com/journals/wcmc/2021/6655216/)
+* [Small-Scale 5G Testbeds for Network Slicing Deployment: A Systematic Review](https://www.hindawi.com/journals/wcmc/2021/6655216/)
 
 [![Small-Scale 5G Testbeds for Network Slicing Deployment: A Systematic Review](https://static-02.hindawi.com/articles/wcmc/volume-2021/6655216/figures/6655216.fig.002.jpg)](https://www.hindawi.com/journals/wcmc/2021/6655216/)
 
